@@ -1,1 +1,1 @@
-export { FirstComponent } from './firstComponent';
+export {default as FirstComponent}  from './firstComponent/FirstComponent.vue';
